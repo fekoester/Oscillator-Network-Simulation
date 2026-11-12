@@ -1,0 +1,6 @@
+/oscnet
+/oscnet_tests
+build*/
+*.csv
+!results/*.csv
+__pycache__/
